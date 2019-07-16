@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Jupyter notebooks of Computer Vision projects run from google Colab. Google colab notebooks allow us to leverage the pwoer of GPU's
+Jupyter notebooks of Computer Vision projects run from google Colab. Google colab notebooks allow us to leverage the power of GPU's
 for free.
 
 ## 1. FineTuningVFeatureExtraction.ipynb
