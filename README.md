@@ -28,6 +28,9 @@ from a plain vanilla feedforward NN or multilayer pereceptron.
 
 This is the notebook version of *MNIST.py* hosted at [VisionPytorch](https://github.com/ShivaKondapalli/VisionPytorch).
 
+## Copy_of_lesson3Planet.ipynb
+
+This is a google colab notebook of looking at Amazon satellite images from space with the fastai library
 
 
 
